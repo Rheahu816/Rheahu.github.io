@@ -11,4 +11,4 @@ I'm a third year undergraduate student from [School of Literature and Journalism
 
 You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:1837105324@qq.com) / [Github](https://rheahu816.github.io/Rheahu.github.io/) / [Wechat](../images/wechat.jpg)
+[Email](mailto:1837105324@qq.com) / [Github](https://rheahu816.github.io/Rheahu.github.io/) / [Wechat](../images/wechat.jpg) 
