@@ -1,6 +1,6 @@
 ---
 title: "Portfolio 1"
-excerpt: "a homemade class magazine that I co-edited and created.<br/><img src='/assets/Lvwang.zip.001'>"
+excerpt: "a homemade class magazine that I co-edited and created.🔗(https://rheahu816.github.io/Rheahu.github.io//portfolio/)"
 collection: portfolio
 ---
 
