@@ -1,6 +1,6 @@
 ---
 title: "Portfolio 1"
-excerpt: "a homemade class magazine that I co-edited and created.🔗(https://pan.baidu.com/s/15wSSGApDUsSrThpVggEpuQ?pwd=2w24)"
+excerpt: "a homemade class magazine that I co-edited and created.🔗[Portfolio 1](https://pan.baidu.com/s/15wSSGApDUsSrThpVggEpuQ?pwd=2w24)"
 collection: portfolio
 ---
 
