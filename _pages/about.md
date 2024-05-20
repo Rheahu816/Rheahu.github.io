@@ -47,6 +47,8 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 我是大白我骄傲 // <font color=DarkGray> 华声新闻 2022.4 </font> [🔍](https://hunan.voc.com.cn/mobile/article/202204/202204090000052052.html)
 
+异彩纷呈，校园遍地是课堂 // <font color=DarkGray> 新湖南 2021.11 </font> [🔍](https://m.voc.com.cn/xhn/news/202111/15377779.html)
+
 **Press Release 新闻稿件（实习）:**
 
 博物馆暑期上新啦！这个夏天，你有感受到“博物馆热”吗？ // <font color=DarkGray> 红网 2022.7 </font> [🔍](https://hn.rednet.cn/content/646741/61/12901708.html)
