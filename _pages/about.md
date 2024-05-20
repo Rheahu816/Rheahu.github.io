@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of Literature and Journalism
 
 You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:1837105324@qq.com) / [Github](https://github.com/Rheahu816/Rheahu.github.io) / [Bilibili](https://space.bilibili.com/10709762?spm_id_from=333.1007.0.0) / ![Wechat](https://github.com/Rheahu816/Rheahu.github.io/blob/master/images/wechat.png)
+[Email](mailto:1837105324@qq.com) / [Github](https://github.com/Rheahu816/Rheahu.github.io) / [Bilibili](https://space.bilibili.com/10709762?spm_id_from=333.1007.0.0) 
 
 
 
