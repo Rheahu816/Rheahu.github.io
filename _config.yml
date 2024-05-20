@@ -12,7 +12,7 @@ title                    : "Hudianhan / Personal Homepage🌳"
 title_separator          : "-"
 name                     : &name "Hu Dianhan"
 description              : &description "personal description"
-url                      : https://rheahu816.github.io/Rheahu.github.io/
+url                      : https://github.com/Rheahu816/Rheahu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "https://rheahu816.github.io/Rheahu.github.io/"
+  github           : "https://github.com/Rheahu816/Rheahu.github.io"
   kaggle           : 
   stackoverflow    : 
 
