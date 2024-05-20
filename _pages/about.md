@@ -49,6 +49,7 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 异彩纷呈，校园遍地是课堂 // <font color=DarkGray> 新湖南 2021.11 </font> [🔍](https://m.voc.com.cn/xhn/news/202111/15377779.html)
 
+
 **Press Release 新闻稿件（实习）:**
 
 博物馆暑期上新啦！这个夏天，你有感受到“博物馆热”吗？ // <font color=DarkGray> 红网 2022.7 </font> [🔍](https://hn.rednet.cn/content/646741/61/12901708.html)
@@ -69,6 +70,7 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 雷锋家乡学雷锋 湖南30个集体和30名个人受表彰 // <font color=DarkGray> 中国日报网湖南频道 2024.5 </font> [🔍](https://cn.chinadaily.com.cn/a/202403/14/WS65f28c2ba3109f7860dd5613.html)
 
+
 **Vedio Works 视频作品（实习）:**
 
 Gigantic Gonzo snacks sell big in Hunan // <font color=DarkGray> chinadaily.com.cn 2024.5 </font> [🔍](https://enapp.chinadaily.com.cn/a/202405/17/AP6647049ea310115ef06737b3.html)
@@ -76,3 +78,8 @@ Gigantic Gonzo snacks sell big in Hunan // <font color=DarkGray> chinadaily.com.
 Stinky tofu tycoon a Changsha success story // <font color=DarkGray> chinadaily.com.cn 2024.4 </font> [🔍](https://enapp.chinadaily.com.cn/a/202404/29/AP662f6467a310115ef0672091.html)
 
 Milk tea brand proves all the rage in Hunan // <font color=DarkGray> chinadaily.com.cn 2024.2 </font> [🔍](https://enapp.chinadaily.com.cn/a/202402/29/AP65dff3f1a310115ef066cb9e.html)
+
+
+**Literature Works 文学作品（实习）:**
+
+永远的忙音 // <font color=DarkGray> 中国知网-[1]胡甸涵.永远的忙音[J].高中生之友,2019(20):34-35. 2024.5 </font> [🔍](https://kns.cnki.net/kcms2/article/abstract?v=mjz80qGfPOU07omjC6zw8cvr18wYa8oNgiJuF7bDW0odXie2elASjoZTw85y9SOonNcU544RNVRPdYGd4_4NW-QUxdfKuuKqkRZoi5OESRS9yo965jixjLUkrjS4tmqugEL40u2kJjw=&uniplatform=NZKPT&flag=copy)
