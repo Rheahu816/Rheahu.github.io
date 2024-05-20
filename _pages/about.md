@@ -82,4 +82,4 @@ Milk tea brand proves all the rage in Hunan // <font color=DarkGray> chinadaily.
 
 **Literature Works 文学作品（实习）:**
 
-永远的忙音 // <font color=DarkGray> 中国知网 2019  </font> [🔍](https://kns.cnki.net/kcms2/article/abstract?v=mjz80qGfPOU07omjC6zw8cvr18wYa8oNgiJuF7bDW0odXie2elASjoZTw85y9SOonNcU544RNVRPdYGd4_4NW-QUxdfKuuKqkRZoi5OESRS9yo965jixjLUkrjS4tmqugEL40u2kJjw=&uniplatform=NZKPT&flag=copy)
+永远的忙音 // <font color=DarkGray> 中国知网 2019 </font> [🔍](https://kns.cnki.net/kcms2/article/abstract?v=mjz80qGfPOU07omjC6zw8cvr18wYa8oNgiJuF7bDW0odXie2elASjoZTw85y9SOonNcU544RNVRPdYGd4_4NW-QUxdfKuuKqkRZoi5OESRS9yo965jixjLUkrjS4tmqugEL40u2kJjw=&uniplatform=NZKPT&flag=copy)
