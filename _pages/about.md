@@ -20,8 +20,7 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 **Press Release 新闻稿件（校内）:**
 
-他们以体育力量守护“星星的孩子” // <font color=DarkGray> 中国日报网 2024.4 </font> [🔍]
-(https://cn.chinadaily.com.cn/a/202404/03/WS660cea80a3109f7860dd81ce.html)
+他们以体育力量守护“星星的孩子” // <font color=DarkGray> 中国日报网 2024.4 </font> [🔍](https://cn.chinadaily.com.cn/a/202404/03/WS660cea80a3109f7860dd81ce.html)
 
 以梦为“码”！长沙理工大学举办1024程序员学术文化风采展 // <font color=DarkGray> 新湖南 2023.10 </font> [🔍](https://m.voc.com.cn/xhn/news/202310/18873775.html)
 
