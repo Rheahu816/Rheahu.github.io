@@ -27,7 +27,7 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 以梦为“码”！长沙理工大学举办1024程序员学术文化风采展 // <font color=DarkGray> 新湖南 2023.10 </font> [🔍](https://m.voc.com.cn/xhn/news/202310/18873775.html)
 
-师德标兵｜邓丰：青年教师养成记——永不言弃，永不停息 // <font color=DarkGray> 新湖南 2023.9 </font> [🔍]https://www.hunantoday.cn/news/xhn/202309/18670183.html
+师德标兵｜邓丰：青年教师养成记——永不言弃，永不停息 // <font color=DarkGray> 新湖南 2023.9 </font> [🔍](https://www.hunantoday.cn/news/xhn/202309/18670183.html)
 
 拿下全国大赛一等奖，这个长理女孩真棒！ // <font color=DarkGray> 新湖南 2023.4 </font> [🔍](https://m.voc.com.cn/xhn/news/202304/16882979.html)
 
