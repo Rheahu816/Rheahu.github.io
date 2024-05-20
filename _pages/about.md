@@ -22,7 +22,7 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 他们以体育力量守护“星星的孩子” // <font color=DarkGray> 中国日报网 2024.4 </font> [🔍](https://cn.chinadaily.com.cn/a/202404/03/WS660cea80a3109f7860dd81ce.html)
 
-长沙理工大学：小手牵大手 孕育强国“青苗工程师” // <font color=DarkGray> 湖南教育网 2024.3 </font> [🔍](http://news.hnjy.com.cn/content/646847/56/13622911.html)  <font color=DarkGray> 光明网 2023.3 </font> [🔍](https://reader.gmw.cn/2024-03/12/content_37200044.htm)  <font color=DarkGray> 人民日报 2024.3 </font> [🔍](https://wap.peopleapp.com/article/rmh40240837/rmh40240837)
+长沙理工大学：小手牵大手 孕育强国“青苗工程师” // <font color=DarkGray> 人民日报 2024.3 </font> [🔍](https://wap.peopleapp.com/article/rmh40240837/rmh40240837)
 
 以梦为“码”！长沙理工大学举办1024程序员学术文化风采展 // <font color=DarkGray> 新湖南 2023.10 </font> [🔍](https://m.voc.com.cn/xhn/news/202310/18873775.html)
 
@@ -82,4 +82,4 @@ Milk tea brand proves all the rage in Hunan // <font color=DarkGray> chinadaily.
 
 **Literature Works 文学作品（实习）:**
 
-永远的忙音 // <font color=DarkGray> 中国知网.高中生之友,2019:34-35. 2024.5 </font> [🔍](https://kns.cnki.net/kcms2/article/abstract?v=mjz80qGfPOU07omjC6zw8cvr18wYa8oNgiJuF7bDW0odXie2elASjoZTw85y9SOonNcU544RNVRPdYGd4_4NW-QUxdfKuuKqkRZoi5OESRS9yo965jixjLUkrjS4tmqugEL40u2kJjw=&uniplatform=NZKPT&flag=copy)
+永远的忙音 // <font color=DarkGray> 中国知网.高中生之友,2019:34-35.  </font> [🔍](https://kns.cnki.net/kcms2/article/abstract?v=mjz80qGfPOU07omjC6zw8cvr18wYa8oNgiJuF7bDW0odXie2elASjoZTw85y9SOonNcU544RNVRPdYGd4_4NW-QUxdfKuuKqkRZoi5OESRS9yo965jixjLUkrjS4tmqugEL40u2kJjw=&uniplatform=NZKPT&flag=copy)
