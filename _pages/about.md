@@ -37,11 +37,13 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 
 智慧助老，长理“红马甲”帮老年人跨“数字鸿沟” // <font color=DarkGray> 新湖南 2023.4 </font> [🔍](https://m.voc.com.cn/xhn/news/202303/16051061.html)
 
+女子离职退600多个群，我们如何应对“群起而攻之”？ // <font color=DarkGray> 红网/中国经济网 2022.11 </font> [🔍](http://views.ce.cn/view/ent/202312/14/t20231214_38828774.shtml)
+
 肖勇刚：思行如一守初心，永做教育追梦人 // <font color=DarkGray> 新湖南 2022.11 </font> [🔍](https://www.hunantoday.cn/news/xhn/202211/15375493.html)
 
 楚地有鸽衔桃李，艳阳春雨道有情 // <font color=DarkGray> 新湖南 2022.10 </font> [🔍](https://www.hunantoday.cn/news/xhn/202210/15375646.html)
 
-女子离职退600多个群，我们如何应对“群起而攻之”？ // <font color=DarkGray> 红网/中国经济网 2022.11 </font> [🔍](http://views.ce.cn/view/ent/202312/14/t20231214_38828774.shtml)
+我是大白我骄傲 // <font color=DarkGray> 华声新闻 2022.4 </font> [🔍](https://hunan.voc.com.cn/mobile/article/202204/202204090000052052.html)
 
 **Press Release 新闻稿件（实习）:**
 
