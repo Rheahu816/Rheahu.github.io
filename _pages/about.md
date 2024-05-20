@@ -21,4 +21,4 @@ You can find my CV here: [Hu Dianhan's Curriculum Vitae](../assets/Curriculum_Vi
 **Press Release 新闻稿件:**
 
 为爱奔赴，与“理”同行 ——长沙理工大学举办第四届校友健步行活动 // <font color=DarkGray>2023.6 新湖南 2023.5 </font> 
-[< img src="images/view.png" width="24px">](https://m.voc.com.cn/xhn/news/202305/18065259.html)
+[🔍](https://m.voc.com.cn/xhn/news/202305/18065259.html)
